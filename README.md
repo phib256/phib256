@@ -1,4 +1,4 @@
-# Hi there, I'm Mugume (phib256) 👋
+# Hi there, I'm Mugume Ronald (phib256) 👋
 
 🚀 **Cloud Infrastructure & DevOps Engineer | Kubernetes, Terraform, & SaaS Architect**
 
@@ -42,6 +42,6 @@ Here are some of my other open-source infrastructure projects:
 
 ## 📬 Let's Connect!
 
-*   🏢 **Business Inquiries:** Looking for reliable, secure ERPNext SaaS hosting or custom cloud migrations? Let's talk at **[phib.net](http://phib.net)**.
-*   💼 **Opportunities:** I am open to consulting engagements, contract projects, and elite DevOps/SRE roles.
+*   🏢 **Business Inquiries:** Looking for reliable, secure ERPNext SaaS hosting or custom cloud migrations? Let's talk at **[phib.net](https://phib.net)**.
+*   💼 **Opportunities:** I am open to consulting engagements, contract projects, and elite DevOps/SRE roles. Connect with me on [LinkedIn](https://www.linkedin.com/in/ronaldmugume).
 *   📧 **Email:** [ronniemugs@gmail.com](mailto:ronniemugs@gmail.com)
